@@ -1,0 +1,6 @@
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.DTO\bin\Debug\GiftList.DTO.dll
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.DTO\bin\Debug\GiftList.DTO.pdb
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.DTO\obj\Debug\GiftList.DTO.csprojResolveAssemblyReference.cache
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.DTO\obj\Debug\GiftList.DTO.csproj.CoreCompileInputs.cache
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.DTO\obj\Debug\GiftList.DTO.dll
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.DTO\obj\Debug\GiftList.DTO.pdb

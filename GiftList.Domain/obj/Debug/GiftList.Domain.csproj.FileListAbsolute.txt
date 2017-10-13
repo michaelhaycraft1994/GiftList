@@ -1,0 +1,6 @@
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Domain\bin\Debug\GiftList.Domain.dll
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Domain\bin\Debug\GiftList.Domain.pdb
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Domain\obj\Debug\GiftList.Domain.csprojResolveAssemblyReference.cache
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Domain\obj\Debug\GiftList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Domain\obj\Debug\GiftList.Domain.dll
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Domain\obj\Debug\GiftList.Domain.pdb

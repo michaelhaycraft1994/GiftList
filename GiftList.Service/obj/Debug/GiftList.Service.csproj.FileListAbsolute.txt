@@ -1,0 +1,12 @@
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Service\bin\Debug\GiftList.Service.dll
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Service\bin\Debug\GiftList.Service.pdb
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Service\bin\Debug\GiftList.Data.dll
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Service\bin\Debug\GiftList.Domain.dll
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Service\bin\Debug\GiftList.DTO.dll
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Service\bin\Debug\GiftList.Data.pdb
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Service\bin\Debug\GiftList.Domain.pdb
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Service\bin\Debug\GiftList.DTO.pdb
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Service\obj\Debug\GiftList.Service.csprojResolveAssemblyReference.cache
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Service\obj\Debug\GiftList.Service.csproj.CoreCompileInputs.cache
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Service\obj\Debug\GiftList.Service.dll
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Service\obj\Debug\GiftList.Service.pdb

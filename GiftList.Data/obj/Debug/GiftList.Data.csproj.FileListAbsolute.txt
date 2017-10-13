@@ -1,0 +1,10 @@
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Data\bin\Debug\GiftList.Data.dll
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Data\bin\Debug\GiftList.Data.pdb
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Data\bin\Debug\GiftList.Domain.dll
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Data\bin\Debug\GiftList.DTO.dll
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Data\bin\Debug\GiftList.Domain.pdb
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Data\bin\Debug\GiftList.DTO.pdb
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Data\obj\Debug\GiftList.Data.csprojResolveAssemblyReference.cache
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Data\obj\Debug\GiftList.Data.csproj.CoreCompileInputs.cache
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Data\obj\Debug\GiftList.Data.dll
+C:\Users\alex.haycraft\source\repos\GiftList\GiftList.Data\obj\Debug\GiftList.Data.pdb
